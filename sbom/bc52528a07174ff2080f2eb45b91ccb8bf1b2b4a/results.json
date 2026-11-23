@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "sha": "bc52528a07174ff2080f2eb45b91ccb8bf1b2b4a",
+  "short": "bc52528",
+  "platform": "windows",
+  "repo": "SuhasN94/GSCDemo",
+  "pages_url": "https://SuhasN94.github.io/GSCDemo",
+  "dash_url": "https://SuhasN94.github.io/GSCDemo/",
+  "labview_version": "2026",
+  "commit": {
+   "message": "Merge 686cc5f5e6ad0e5904ced65a76816139cd3dcb03 into 321cf10d6649b71f90480a4fb2601eb3ad36a549",
+   "author": "Suhas Nanjundaswamy",
+   "date": "2026-11-23T20:27:47+05:30"
+  },
+  "generated_utc": "2026-11-23 15:23 UTC",
+  "spdx_version": "Unknown",
+  "created": ""
+ },
+ "summary": {
+  "total_packages": 0
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "packages": [],
+ "tooling": {
+  "missing": []
+ }
+}
