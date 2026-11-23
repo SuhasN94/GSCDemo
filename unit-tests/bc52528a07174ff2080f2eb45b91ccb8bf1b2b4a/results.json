@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "sha": "bc52528a07174ff2080f2eb45b91ccb8bf1b2b4a",
+  "short": "bc52528",
+  "platform": "windows",
+  "repo": "SuhasN94/GSCDemo",
+  "pages_url": "https://SuhasN94.github.io/GSCDemo",
+  "snap_base": "https://SuhasN94.github.io/GSCDemo/vi-snapshots/",
+  "dash_url": "https://SuhasN94.github.io/GSCDemo/",
+  "labview_version": "2026",
+  "tools": [],
+  "commit": {
+   "message": "Merge 686cc5f5e6ad0e5904ced65a76816139cd3dcb03 into 321cf10d6649b71f90480a4fb2601eb3ad36a549",
+   "author": "Suhas Nanjundaswamy",
+   "date": "2026-11-23T20:27:47+05:30"
+  },
+  "generated_utc": "2026-11-23 15:14 UTC"
+ },
+ "summary": {
+  "tests": 0,
+  "passed": 0,
+  "failed": 0,
+  "errored": 0,
+  "skipped": 0,
+  "percent": 0,
+  "status": "empty",
+  "duration": 0.0
+ },
+ "status_order": [
+  "failed",
+  "error",
+  "skipped",
+  "passed"
+ ],
+ "status_meta": {
+  "failed": {
+   "label": "Failed",
+   "color": "#da3633",
+   "blurb": "An assertion failed."
+  },
+  "error": {
+   "label": "Errored",
+   "color": "#bb8009",
+   "blurb": "The test raised an unexpected error."
+  },
+  "skipped": {
+   "label": "Skipped",
+   "color": "#6e7681",
+   "blurb": "The test was skipped."
+  },
+  "passed": {
+   "label": "Passed",
+   "color": "#2ea043",
+   "blurb": "The test passed."
+  }
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "suites": [],
+ "tooling": {
+  "missing": []
+ }
+}
