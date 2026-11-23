@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "sha": "bc52528a07174ff2080f2eb45b91ccb8bf1b2b4a",
+    "short": "bc52528",
+    "platform": "windows",
+    "repo": "SuhasN94/GSCDemo",
+    "pages_url": "https://SuhasN94.github.io/GSCDemo",
+    "pages_base": "../..",
+    "commit": {
+      "message": "Merge 686cc5f5e6ad0e5904ced65a76816139cd3dcb03 into 321cf10d6649b71f90480a4fb2601eb3ad36a549",
+      "author": "Suhas Nanjundaswamy",
+      "date": "2026-11-23T20:27:47+05:30"
+    },
+    "generated_utc": "2026-11-23 15:25 UTC",
+    "analysis_date": "Monday, November 23, 2026 3:25:08 PM",
+    "duration": "00:01:13.92"
+  },
+  "summary": {
+    "vis_analyzed": 21,
+    "tests_run": 2184,
+    "passed": 2053,
+    "failed": 131,
+    "skipped": 0,
+    "findings": 6,
+    "vis_with_findings": 3
+  },
+  "errors": {
+    "vi_not_loadable": 0,
+    "test_not_loadable": 0,
+    "test_not_runnable": 0,
+    "test_error_out": 0
+  },
+  "rule_counts": [
+    {
+      "test": "Comment Usage",
+      "severity": "documentation",
+      "count": 3,
+      "vi_count": 3
+    },
+    {
+      "test": "Enabled Debugging",
+      "severity": "performance",
+      "count": 3,
+      "vi_count": 3
+    }
+  ]
+}
