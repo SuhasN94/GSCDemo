@@ -1,0 +1,26 @@
+[
+  {
+    "sha": "321cf10d6649b71f90480a4fb2601eb3ad36a549",
+    "short": "321cf10",
+    "message": "Add LabVIEW CI pipeline",
+    "author": "Suhas Nanjundaswamy",
+    "date": "2026-11-23T20:19:18+05:30",
+    "vi_count": 3
+  },
+  {
+    "sha": "3f0b9f882004aa257efcb1f2152f94d375a1cb50",
+    "short": "3f0b9f8",
+    "message": "Add LabVIEW CI pipeline",
+    "author": "Suhas Nanjundaswamy",
+    "date": "2026-11-23T20:17:05+05:30",
+    "vi_count": 3
+  },
+  {
+    "sha": "fc4bd68ff4ea233f82191d1ff31f7aa402e8071c",
+    "short": "fc4bd68",
+    "message": "Initial addition",
+    "author": "Suhas NanjundaSwamy",
+    "date": "2026-11-23T20:14:59+05:30",
+    "vi_count": 3
+  }
+]
