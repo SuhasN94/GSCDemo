@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "sha": "9f2073afb397a35b6d8d59533803bc4e621c55e5",
+  "short": "9f2073a",
+  "platform": "windows",
+  "repo": "SuhasN94/GSCDemo",
+  "pages_url": "https://SuhasN94.github.io/GSCDemo",
+  "snap_base": "https://SuhasN94.github.io/GSCDemo/vi-snapshots/",
+  "dash_url": "https://SuhasN94.github.io/GSCDemo/",
+  "labview_version": "2026",
+  "tools": [],
+  "commit": {
+   "message": "Merge pull request #5 from SuhasN94/TVCDemo",
+   "author": "Suhas Nanjundaswamy",
+   "date": "2026-11-27T00:38:18+05:30"
+  },
+  "generated_utc": "2026-11-26 19:25 UTC"
+ },
+ "summary": {
+  "tests": 0,
+  "passed": 0,
+  "failed": 0,
+  "errored": 0,
+  "skipped": 0,
+  "percent": 0,
+  "status": "empty",
+  "duration": 0.0
+ },
+ "status_order": [
+  "failed",
+  "error",
+  "skipped",
+  "passed"
+ ],
+ "status_meta": {
+  "failed": {
+   "label": "Failed",
+   "color": "#da3633",
+   "blurb": "An assertion failed."
+  },
+  "error": {
+   "label": "Errored",
+   "color": "#bb8009",
+   "blurb": "The test raised an unexpected error."
+  },
+  "skipped": {
+   "label": "Skipped",
+   "color": "#6e7681",
+   "blurb": "The test was skipped."
+  },
+  "passed": {
+   "label": "Passed",
+   "color": "#2ea043",
+   "blurb": "The test passed."
+  }
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "suites": [],
+ "tooling": {
+  "missing": []
+ }
+}
