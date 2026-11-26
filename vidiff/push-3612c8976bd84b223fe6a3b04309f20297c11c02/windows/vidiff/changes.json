@@ -1,0 +1,10 @@
+{
+  "platform": "windows",
+  "files": [
+    {
+      "file": "SampleVIs/Add.vi",
+      "type": "modified",
+      "report": "SampleVIs-Add.vi/index.html"
+    }
+  ]
+}
