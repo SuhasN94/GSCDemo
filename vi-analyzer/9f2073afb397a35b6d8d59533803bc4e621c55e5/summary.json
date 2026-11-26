@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "sha": "9f2073afb397a35b6d8d59533803bc4e621c55e5",
+    "short": "9f2073a",
+    "platform": "windows",
+    "repo": "SuhasN94/GSCDemo",
+    "pages_url": "https://SuhasN94.github.io/GSCDemo",
+    "pages_base": "../..",
+    "commit": {
+      "message": "Merge pull request #5 from SuhasN94/TVCDemo",
+      "author": "Suhas Nanjundaswamy",
+      "date": "2026-11-27T00:38:18+05:30"
+    },
+    "generated_utc": "2026-11-26 19:24 UTC",
+    "analysis_date": "Thursday, November 26, 2026 7:23:55 PM",
+    "duration": "00:01:00.41"
+  },
+  "summary": {
+    "vis_analyzed": 21,
+    "tests_run": 2184,
+    "passed": 2052,
+    "failed": 132,
+    "skipped": 0,
+    "findings": 7,
+    "vis_with_findings": 3
+  },
+  "errors": {
+    "vi_not_loadable": 0,
+    "test_not_loadable": 0,
+    "test_not_runnable": 0,
+    "test_error_out": 0
+  },
+  "rule_counts": [
+    {
+      "test": "Comment Usage",
+      "severity": "documentation",
+      "count": 3,
+      "vi_count": 3
+    },
+    {
+      "test": "Enabled Debugging",
+      "severity": "performance",
+      "count": 3,
+      "vi_count": 3
+    },
+    {
+      "test": "Panel Size and Position",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    }
+  ]
+}
