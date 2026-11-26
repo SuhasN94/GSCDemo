@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "sha": "9f2073afb397a35b6d8d59533803bc4e621c55e5",
+  "short": "9f2073a",
+  "platform": "windows",
+  "repo": "SuhasN94/GSCDemo",
+  "pages_url": "https://SuhasN94.github.io/GSCDemo",
+  "dash_url": "https://SuhasN94.github.io/GSCDemo/",
+  "labview_version": "2026",
+  "commit": {
+   "message": "Merge pull request #5 from SuhasN94/TVCDemo",
+   "author": "Suhas Nanjundaswamy",
+   "date": "2026-11-27T00:38:18+05:30"
+  },
+  "generated_utc": "2026-11-26 19:21 UTC",
+  "spdx_version": "Unknown",
+  "created": ""
+ },
+ "summary": {
+  "total_packages": 0
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "packages": [],
+ "tooling": {
+  "missing": []
+ }
+}
